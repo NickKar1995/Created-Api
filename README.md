@@ -6,11 +6,11 @@ A simple API created from scratch with Node.js, express and POSTMAN, utilizing C
 2. Install the required dependencies {npm i express} 
 3. Download POSTMAN so you can POST,PUT,DELETE.
 
-## FEATURES
--GET
--POST
--PUT
--DELETE
+## Features
+ -GET
+ -POST
+ -PUT
+ -DELETE
 
 ## Dependencies
 -Express
