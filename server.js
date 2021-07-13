@@ -53,7 +53,7 @@ app.get('/user/:id',(req,res)=>{
 
 
 
-app.post('/user/update/name',(req,res)=>{
+app.put('/user/update/name',(req,res)=>{
     const {name,id}=req.body;
     fake_database.forEach((user)=>{
         if (user.id===+id){
