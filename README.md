@@ -7,13 +7,13 @@ A simple API created from scratch with Node.js, express and POSTMAN, utilizing C
 3. Download POSTMAN so you can POST,PUT,DELETE.
 
 ## Features
- -GET
- -POST
- -PUT
- -DELETE
+- GET
+- POST
+- PUT
+- DELETE
 
 ## Dependencies
--Express
--Node
--No need for body parser, instead use built in function app.use(express.urlencoded({extended:true}))
+- Express
+- Node
+- No need for body parser, instead use built in function app.use(express.urlencoded({extended:true}))
 
